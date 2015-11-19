@@ -1,5 +1,5 @@
 {
-	"name": "mlebkowski/text-message-sender",
+	"name": "znanylekarz/text-message-sender",
 	"description": "Send text messages using one of many providers",
 	"minimum-stability": "stable",
 	"authors": [
