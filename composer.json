@@ -1,5 +1,5 @@
 {
-	"name": "znanylekarz/text-message-sender",
+	"name": "mlebkowski/text-message-sender",
 	"description": "Send text messages using one of many providers",
 	"minimum-stability": "stable",
 	"authors": [
@@ -21,6 +21,6 @@
 		"mlebkowski/mobitex": "~1.0"
 	},
 	"require": {
-		"giggsey/libphonenumber-for-php": "~5.9"
+		"giggsey/libphonenumber-for-php": "~5.9|~6.0|~7.0|~8.0"
 	}
 }
